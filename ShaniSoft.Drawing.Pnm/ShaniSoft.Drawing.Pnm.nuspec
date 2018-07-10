@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>ShaniSoft.Drawing.Pnm</id>
+    <version>1.0.0</version>
+    <title>ShaniSoft.Drawing.Pnm</title>
+    <authors>Zeeshan Ejaz Bhatti</authors>
+    <owners>Serj-Tm</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This class supports reading the PNM image format into System.Drawing.Image and writing it back to PNM format. It makes it possible to inter convert different image file formats including PNM. </description>
+    <copyright>Copyright ©  2008</copyright>
+    <projectUrl>https://github.com/Serj-Tm/ShaniSoft.Drawing.Pnm</projectUrl>
+    <tags>Netpbm PNM image drawing</tags>
+  </metadata>
+  <files>
+    <file src="bin\$configuration$\ShaniSoft.Drawing.Pnm.dll" target="lib\" />
+  </files>
+
+</package>
