@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaniSoft.Drawing.Pnm", "ShaniSoft.Drawing.PNM\ShaniSoft.Drawing.Pnm.csproj", "{925B9C9A-3B39-4B43-A7DA-B84B1B082ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaniSoft.Drawing.PNMTester", "ShaniSoft.Drawing.PNMTester\ShaniSoft.Drawing.PNMTester.csproj", "{4AA90159-FDA4-437F-AC12-4D2A1B145BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925B9C9A-3B39-4B43-A7DA-B84B1B082ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925B9C9A-3B39-4B43-A7DA-B84B1B082ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925B9C9A-3B39-4B43-A7DA-B84B1B082ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925B9C9A-3B39-4B43-A7DA-B84B1B082ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA90159-FDA4-437F-AC12-4D2A1B145BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA90159-FDA4-437F-AC12-4D2A1B145BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA90159-FDA4-437F-AC12-4D2A1B145BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA90159-FDA4-437F-AC12-4D2A1B145BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44B6DE61-49A5-4FD4-A6AA-9A8AF04EFB81}
+	EndGlobalSection
+EndGlobal
